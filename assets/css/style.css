@@ -131,3 +131,7 @@ h6{
     text-align: center;
 }
 
+p:hover { color: blue; }
+
+a:hover {color:green;
+    background-color: grey;} 
